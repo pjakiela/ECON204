@@ -1,1 +1,1 @@
-# Global Poverty and Economic Development
+# Global Poverty
