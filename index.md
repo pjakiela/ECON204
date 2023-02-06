@@ -8,6 +8,6 @@
 
 [Syllabus](ECON-204-syllabus.pdf)
 
-[Reading List](Econ-204-reading-list.pdf)
+[Reading List](ECON-204-reading-list.pdf)
 
 [Schedule of Topics](https://pjakiela.github.io/ECON204/schedule.html)
