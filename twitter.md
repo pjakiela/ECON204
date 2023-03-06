@@ -29,4 +29,12 @@ What I am looking for in this assignment:
 	
 To get you started, here are some examples of twitter threads summarizing applied micro papers:
 
+[Information and Strategy in Lemon Markets: Improving Safety in Informal Transit](https://twitter.com/davidfromterra/status/1566029252595777538?s=20)
+
 [Measuring Preferences for Local Governments](https://twitter.com/davidfromterra/status/1579109834691313671?s=20)
+
+[How debit cards enable the poor to save more](https://twitter.com/SeanKHiggins/status/1413577470045982720?s=20)
+
+[Mortality Change Among Less Educated Americans](https://twitter.com/paulnovosad/status/1603834378861281302?s=20)
+
+[Beyond Test Scores](https://twitter.com/DaveEvansPhD/status/1573299909897617411?s=20)
