@@ -2,7 +2,7 @@
 
 Your assignment is to prepare a twitter thread summarizing the empirical results of 
 the paper [Exporting and Firm Performance:  Evidence from a Randomized Experiment](https://academic.oup.com/qje/article/132/2/551/3002609).  Your thread 
-should be 5-8 tweets long, and each tweet must be no more than 280 characters.
+should be 5-8 tweets long, and each tweet must be no more than 280 characters.  A pdf of the assignment is available [here](ECON204-twitter-2023-03-05.pdf).
 
 The first tweet needs to include a hook of some sort that will grab the reader's attention.  Do not 
 begin with "I am going to summarize..."  Your first tweet should also include a link to the paper as well as 
