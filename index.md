@@ -11,3 +11,9 @@
 [Reading List](ECON-204-reading-list.pdf)
 
 [Schedule of Topics](https://pjakiela.github.io/ECON204/schedule.html)
+
+<br>
+
+## Assignments
+
+[Twitter Thread Assignment](https://pjakiela.github.io/ECON204/twitter.html) (due March 17)
