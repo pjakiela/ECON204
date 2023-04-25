@@ -15,5 +15,18 @@ You are free to discuss your brief with your classmates, but everything you subm
 
 You are free to prepare your brief about any of the papers below:
 
-[Graduation Programs Targeting Women: Evidence from the Democratic Republic of Congo](https://drive.google.com/file/d/1PPcrdSjzr12t7C41C8o0hMAnrXL6Rcd0/view?usp=sharing)  
-By Manuela Angelucci, Rachel Heath, and Eva Noble
+[Graduation Programs Targeting Women: Evidence from the Democratic Republic of Congo](https://drive.google.com/file/d/1PPcrdSjzr12t7C41C8o0hMAnrXL6Rcd0/view?usp=sharing)    
+By Manuela Angelucci, Rachel Heath, and Eva Noble  
+Keywords: graduation,women’sempowerment, financial inclusion, fragile and conflict-affected areas  
+
+[Money (Not) to Burn: Payments for Ecosystem Servicesto Reduce Crop Residue Burning](https://www.dropbox.com/s/vjg5zl04caaxfxe/Crop_burning.pdf?dl=0)  
+By Kelsey Jack, Seema Jayachandran Namrata Kala, Rohini Pande  
+Keywords:  air quality, agriculture, payments for ecosystem services  
+
+[Cash Transfers and Community Participation in Public Affairs:  A Village-Level Randomized Controlled Trial in Kenya](https://www.dropbox.com/s/rwwhz5qtcrkuns3/kenya_civics.pdf?dl=0)  
+By Kate Orkin and Michael Walker  
+Keywords:  unconditional cash transfers, patronage, local politics    
+
+[Got (Clean) Milk?: Organization, Incentives, and Management in Indian Dairy Cooperatives](https://manaswinirao.com/files/Rao_Shenoy_Cows_Paper.pdf)  
+By Manaswini Rao and Ashish Shenoy  
+Keywords:  rural livelihoods, quality upgrading, cooperatives, dairy, elite capture, India  
