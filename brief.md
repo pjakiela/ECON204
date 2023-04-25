@@ -17,9 +17,9 @@ You are free to prepare your brief about any of the papers below:
 
 [Graduation Programs Targeting Women: Evidence from the Democratic Republic of Congo](https://drive.google.com/file/d/1PPcrdSjzr12t7C41C8o0hMAnrXL6Rcd0/view?usp=sharing)    
 By Manuela Angelucci, Rachel Heath, and Eva Noble  
-Keywords: graduation,women’sempowerment, financial inclusion, fragile and conflict-affected areas  
+Keywords: graduation,women’s empowerment, financial inclusion, fragile and conflict-affected areas  
 
-[Money (Not) to Burn: Payments for Ecosystem Servicesto Reduce Crop Residue Burning](https://www.dropbox.com/s/vjg5zl04caaxfxe/Crop_burning.pdf?dl=0)  
+[Money (Not) to Burn: Payments for Ecosystem Services to Reduce Crop Residue Burning](https://www.dropbox.com/s/vjg5zl04caaxfxe/Crop_burning.pdf?dl=0)  
 By Kelsey Jack, Seema Jayachandran Namrata Kala, Rohini Pande  
 Keywords:  air quality, agriculture, payments for ecosystem services  
 
