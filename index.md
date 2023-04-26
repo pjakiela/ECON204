@@ -17,3 +17,5 @@
 ## Assignments
 
 [Twitter Thread Assignment](https://pjakiela.github.io/ECON204/twitter.html) (due March 17)
+
+[Policy Brief Assignment](https://pjakiela.github.io/ECON204/brief.html) (due May 16)
