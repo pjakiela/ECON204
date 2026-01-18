@@ -1,8 +1,10 @@
 # Schedule of Topics   
 
-February 6: What Is Poverty? 
+February 6: Intro to the Course 
 
-February 8: Geography
+February 9: What Is Poverty? 
+
+February 11: Geography
 
 February 13, 15: The African Slave Trades 
 
