@@ -6,7 +6,7 @@
 
 ## Course Materials
 
-[Syllabus](ECON-204-syllabus-2026.pdf)
+[Syllabus](ECON204-syllabus-2026.pdf)
 
 [Reading List](https://pjakiela.github.io/ECON204/readings.html)
 
