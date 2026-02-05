@@ -1,5 +1,7 @@
 # Required Readings
 
+_Reading comprehension questions are posted on gradescope and must be submitted before each class meeting._  
+
 ### February 9: What Is Poverty?
 
 - [Our World in Data: The history of the end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)  
