@@ -8,7 +8,7 @@
 
 [Syllabus](ECON-204-syllabus-2026.pdf)
 
-[Reading List]([ECON-204-reading-list.pdf](https://pjakiela.github.io/ECON204/readings.html))
+[Reading List](https://pjakiela.github.io/ECON204/readings.html)
 
 [Schedule of Topics](https://pjakiela.github.io/ECON204/schedule.html)
 
