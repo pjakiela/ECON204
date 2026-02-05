@@ -1,14 +1,14 @@
 # Global Poverty
 
-**Global Poverty and Economic Development** is a course on extreme poverty:  what it is, why it exists, and what can be done to eliminate it.  It is primarily intended for Williams students majoring in economics or environmental studies, as well as other students seeking to understand absolute poverty around the world.
+**Global Poverty and Economic Development** is a course on extreme poverty:  what it is, why it exists, and what can be done to eliminate it.  
 
 <br>
 
 ## Course Materials
 
-[Syllabus](ECON-204-syllabus.pdf)
+[Syllabus](ECON-204-syllabus-2026.pdf)
 
-[Reading List](ECON-204-reading-list.pdf)
+[Reading List]([ECON-204-reading-list.pdf](https://pjakiela.github.io/ECON204/readings.html))
 
 [Schedule of Topics](https://pjakiela.github.io/ECON204/schedule.html)
 
@@ -16,6 +16,16 @@
 
 ## Assignments
 
-[Twitter Thread Assignment](https://pjakiela.github.io/ECON204/twitter.html) (due March 17)
+Colonialism Project
 
-[Policy Brief Assignment](https://pjakiela.github.io/ECON204/brief.html) (due May 16)
+Policy Brief 
+
+<br>
+
+## Links 
+
+[VoxDev](https://voxdev.org/)  
+
+[The Jameel Poverty Action Lab (J-PAL)}(https://www.povertyactionlab.org/)  
+
+<br>
