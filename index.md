@@ -26,6 +26,6 @@ Policy Brief
 
 [VoxDev](https://voxdev.org/)  
 
-[The Jameel Poverty Action Lab (J-PAL)}(https://www.povertyactionlab.org/)  
+[The Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)  
 
 <br>
