@@ -4,7 +4,7 @@
 
 |  Date  |  Topic  |
 | ------------ | ------- |
-| 2/6 | [Introduction]() |
+| 2/6 | [Introduction](ECON204-L0-intro-2026-handout.pdf) |
 | 2/9 | [What Is Poverty?](https://pjakiela.github.io/ECON204/1-poverty.html) |
 | 2/11 | [Lab: Geography](https://pjakiela.github.io/ECON204/2-geography.html) |
 | 2/16 | [The African Slave Trades](https://pjakiela.github.io/ECON204/3-slave-trades.html) |
