@@ -22,7 +22,17 @@ Policy Brief
 
 <br>
 
-## Links 
+## Data Analysis Resources  
+
+Williams ECON's [Stata tutorials](https://pjakiela.github.io/stata/)  
+
+[Getting Started in R](https://pjakiela.github.io/ECON370/getting-started-R.html)  
+
+[Getting Started in Python](https://pjakiela.github.io/ECON370/getting-started-python.html)
+
+<br>
+
+## Additional Development Links 
 
 [VoxDev](https://voxdev.org/)  
 
