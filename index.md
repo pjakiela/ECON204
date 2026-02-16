@@ -16,7 +16,7 @@
 
 ## Assignments
 
-Colonialism Project
+[Colonialism Project](https://pjakiela.github.io/ECON204/colonialism-project.html)
 
 Policy Brief 
 
