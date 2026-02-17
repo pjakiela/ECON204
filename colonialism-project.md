@@ -24,7 +24,19 @@ Country: Puerto Rico (which is not a country but has experienced colonialism)
 
 [**Colonialism and Modern Income: Islands as Natural Experiments**](https://direct.mit.edu/rest/article/91/2/245/57767/Colonialism-and-Modern-Income-Islands-as-Natural)  
 Authors: James Feyrer and Bruce Sacerdote  
-Countries: island nations and overseas territories   
+Countries: island nations and overseas territories  
+
+[**The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in Java**](https://academic.oup.com/restud/article/87/1/164/5385518?guestAccessKey=f81fb3c6-589f-42c0-ad7c-7d6716c24056&login=false)  
+Authors: Melissa Dell and Benjamin Olken  
+Country: Indonesia  
+
+[**Prison Labor: The Price of Prisons and the Lasting Effects of Incarceration**](https://www.nber.org/papers/w31637)  
+Authors: Belinda Archibong and Nonso Obikili  
+Country: Nigeria  
+
+[**Multinationals, Monopsony, and Local Development: Evidence from the United Fruit Company**](https://www.dianavanpatten.com/_files/ugd/27755d_424f33c68595472d85c4b3c3e3f58f4e.pdf)  
+Authors: Diana van Patten and Esteban Mendez  
+Country: Costa Rica  
 
 [**The Persistent Effects of Peru's Mining Mita**](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8121)  
 Author: Melissa Dell  
