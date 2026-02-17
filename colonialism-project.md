@@ -10,7 +10,7 @@ Country: India
 Authors: Sara Lowes and Eduardo Montero  
 Countries: Cameroon, Central Africa Republic, Chad, Gabon, Republic of Congo
 
-[**Concessions, Violence, and Indirect Rule: Evidence from the Congo Free Stata**](https://academic.oup.com/qje/article/136/4/2047/6289931)  
+[**Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State**](https://academic.oup.com/qje/article/136/4/2047/6289931)  
 Authors: Sara Lowes and Eduardo Montero  
 Country: Democratic Republic of Congo  
 
