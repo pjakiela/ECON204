@@ -38,10 +38,6 @@ Country: India
 Authors: Gustavo Bobonis and Peter Morrow  
 Country: Puerto Rico (which is not a country but has experienced colonialism)  
 
-[**Colonialism and Modern Income: Islands as Natural Experiments**](https://direct.mit.edu/rest/article/91/2/245/57767/Colonialism-and-Modern-Income-Islands-as-Natural)  
-Authors: James Feyrer and Bruce Sacerdote  
-Countries: island nations and overseas territories  
-
 [**The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in Java**](https://academic.oup.com/restud/article/87/1/164/5385518?guestAccessKey=f81fb3c6-589f-42c0-ad7c-7d6716c24056&login=false)  
 Authors: Melissa Dell and Benjamin Olken  
 Country: Indonesia  
