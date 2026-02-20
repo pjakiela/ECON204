@@ -1,4 +1,4 @@
-# Colonialism
+# Colonialism Project  
 
 ## Structure of the Assignment 
 
