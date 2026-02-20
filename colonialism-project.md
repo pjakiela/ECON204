@@ -1,5 +1,21 @@
 # Colonialism
 
+## Structure of the Assignment 
+
+The objective for this project is to prepare a 5-minute talk or video that highlights the main contributions of your paper. In lecture, we will discuss the aggregate impacts of colonialism, but each of these papers studies the specific effect of a particular colonial institution implemented in a particular context. Your teach your classmates about your papers main research question and the authors’ key findings.  
+
+You presentation should answer three questions:  
+
+1. **What is the colonial institution that the authors study, and in what context?** To answer this, you will need to describe the country (or countries, or territories) in the study and the relevant colonial power, and then provide specifics on the particular policy or institution that the authors are analyzing (e.g. what, where, and when). It may be helpful to include a map – either from the paper or one that you find elsewhere.
+2. **How do the authors estimate the impacts of this colonial institution or policy?** To answer this, you need to provide a description of what is being compared to what. For example, villages just inside some geographic boundary might be compared to those outside, or districts where railroads were built might be compared to districts where railroads were planned but not actually built. How do the authors define treatment (i.e. what is the independent variable of interest in their analysis), and what is their main outcome?
+3. **What do the authors find?** You should highlight the results from **one** main piece of analysis (probably the first table of regression results). You should also provide some interpretation, both in terms of the magnitude of the effect (Does the effect seem large or small to you?) and also more generally (What is your hot take? Are you convinced? Are there other things that you would have liked to see from the authors?). 
+
+If you submit your presentation as a video, you will need to upload your video as well as any slides or images that you use. If you present your talk live, then you will need to submit your slides.  
+
+Note that students who present in class cannot use at most one handwritten notecard (per student); you cannot make a live presentation by reading off of a prepared script.  
+
+<br>
+
 ## Papers
 
 [**History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India**](https://www.aeaweb.org/articles?id=10.1257/0002828054825574)  
