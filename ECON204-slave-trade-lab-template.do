@@ -15,7 +15,7 @@ set more off
 webuse set https://pjakiela.github.io/ECON204
 webuse ECON-204-Nunn-2008-data.dta
 
-// 1. Familiarize yourelf with the data. Use describe to list all the variables in the data set.  
+// 1. Familiarize yourself with the data. Use describe to list all the variables in the data set.  
 
 // 1.1 How many variables are there in the data set?
 
@@ -80,7 +80,7 @@ reg ln_gdp_2000 ln_slave_exports
 // 5.5 Based on the t-statistic from 5.4, is ln_slave_exports statistically significant at the 95 percent level?
 
 
-// 6. The code below makes a scatter plot of the relationship between log GDP in 2010 and the log number of slaves exported, normalized by land area. Adapt the code to make a scatterplot of the relationship between log slave exports and infant mortality.
+// 6. The code below makes a scatter plot of the relationship between log GDP in 2010 and the log number of slaves exported, normalized by land area. Adapt the code to make a scatter plot of the relationship between log slave exports and infant mortality.
 
 set scheme s1mono
 twoway (scatter ln_gdp_2010 ln_slave_exp)
@@ -93,11 +93,11 @@ twoway (scatter ln_gdp_2010 ln_slave_exp)
 
 // c. Add a title to the graph. 
 
-// d. You can overlay a scatter plot and a linear regression line in stata using parentheses, as in the code for scatter plots of infant mortality and GDP below. Add a linear regression line to your scatter plot of infant mortality and log slave exports. 
+// d. You can overlay a scatter plot and a linear regression line in stata using parentheses, as in the code for scatter plot of infant mortality and GDP below. Add a linear regression line to your scatter plot of infant mortality and log slave exports. 
 
 twoway (scatter infant_mortality ln_gdp_2000) (lfit infant_mortality ln_gdp_2000), legend(off) 
 
-// e. You can also overlay multiple scatter plots in stata using parentheses, as in the code for scatter plots of infant mortality and GDP in island vs. non-island nations (below).  Distinguish between countries in Sub-Saharan Africa, countries in North Africa, and island nations in your scatter plot of infant mortality and log slave exports. 
+// e. You can also overlay multiple scatter plots in stata using parentheses, as in the code for scatter plot of infant mortality and GDP in island vs. non-island nations (below).  Distinguish between countries in Sub-Saharan Africa, countries in North Africa, and island nations in your scatter plot of infant mortality and log slave exports. 
 
 twoway (scatter infant_mortality ln_gdp_2000 if island==0, mcolor(cranberry)) ///
  (scatter infant_mortality ln_gdp_2000 if island==1, mcolor(midblue)), ///
