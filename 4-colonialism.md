@@ -15,3 +15,9 @@
 [Acemoglu, Johnson, and Robinson: The Colonial Origins of Comparative Development](https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos)   
 
 [Engerman and Sokoloff: Factor Endowments, Inequality, and Paths of Development Among New World Economics](https://www.nber.org/papers/w9259)  
+
+<br>
+
+## Class Materials 
+
+[Lecture Notes](ECON204-L4-colonialism-2026-handout.pdf) 
