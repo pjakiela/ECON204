@@ -11,10 +11,14 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 
 - [The Geography of Poverty and Wealth](https://www.jstor.org/stable/26059132?seq=1)  
 
-### February 18, 23: The African Slave Trades 
+### February 18, 25, March 2: The African Slave Trades 
 
 - [Shackled to the Past: The Causes and Consequences of Africa’s Slave Trades](https://nathannunn.sites.olt.ubc.ca/files/2022/07/nathannunn-the-causes-.pdf)
 
-### February 25: Colonialism
+### March 4, 9: Colonialism
 
-- [The Importance of History for Economic Development](https://nathannunn.sites.olt.ubc.ca/files/2022/07/nathannunn-the-importance-of-history-for-econ-development.pdf)  
+- [The Importance of History for Economic Development](https://nathannunn.sites.olt.ubc.ca/files/2022/07/nathannunn-the-importance-of-history-for-econ-development.pdf)
+
+### March 11: The Big Push
+
+- [The Fall and Rise of Development Economics](https://web.mit.edu/krugman/www/dishpan.html)  
