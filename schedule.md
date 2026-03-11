@@ -11,8 +11,7 @@
 | 3/2 | [Lab: The African Slave Trades](https://pjakiela.github.io/ECON204/3-slave-trades.html) | 
 | 3/4 | [Colonialism](https://pjakiela.github.io/ECON204/4-colonialism.html) | 
 | 3/9 | **Colonialism Presentations** |
-| 3/11 | Theories of Development | 
-| 3/9 | Lab: Theories of Development |
+| 3/11 | [Theories of Development](5-big-push.html) | 
 | 3/16 | Industrial Policy |
 | 3/18 | Agriculture and Structural Transformation | 
 | 3/21, 3/23, 3/30, 4/1 | _Spring Break_ |
