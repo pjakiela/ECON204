@@ -19,6 +19,13 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 
 - [The Importance of History for Economic Development](https://nathannunn.sites.olt.ubc.ca/files/2022/07/nathannunn-the-importance-of-history-for-econ-development.pdf)
 
-### March 11: The Big Push
+### March 11, 16: The Big Push
 
-- [The Fall and Rise of Development Economics](https://web.mit.edu/krugman/www/dishpan.html)  
+- [The Fall and Rise of Development Economics](https://web.mit.edu/krugman/www/dishpan.html)
+
+- ### March 18: Industrial Policy
+
+- [Industrial Policy, Asian Miracle Style](https://www.aeaweb.org/articles?id=10.1257/jep.20251448)
+- [Manufacturing revolutions: The role of industrial policy in South Korea’s industrialisation](https://voxdev.org/topic/firms/manufacturing-revolutions-role-industrial-policy-south-koreas-industrialisation)  
+
+<br>
