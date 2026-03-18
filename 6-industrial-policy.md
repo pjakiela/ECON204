@@ -26,6 +26,6 @@
 
 ## Class Materials 
 
-[Lecture notes](ECON205-L6-industrial-policy-2026-handout.pdf)  
+[Lecture notes](ECON204-L6-industrial-policy-2026-handout.pdf)  
 
 <br>
