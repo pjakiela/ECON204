@@ -25,7 +25,15 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 
 ### March 18: Industrial Policy
 
-- [Industrial Policy, Asian Miracle Style](https://www.aeaweb.org/articles?id=10.1257/jep.20251448)
-- [Manufacturing revolutions: The role of industrial policy in South Korea’s industrialisation](https://voxdev.org/topic/firms/manufacturing-revolutions-role-industrial-policy-south-koreas-industrialisation)  
+- [Industrial Policy, Asian Miracle Style](https://www.aeaweb.org/articles?id=10.1257/jep.20251448)  
+- [Manufacturing revolutions: The role of industrial policy in South Korea’s industrialisation](https://voxdev.org/topic/firms/manufacturing-revolutions-role-industrial-policy-south-koreas-industrialisation)
+
+### April 6: Structural Adjustment
+
+- [Washington Consensus Reforms and Lessons for Economic Performance in Sub-Saharan Africa](https://www.aeaweb.org/articles?id=10.1257/jep.35.3.133)
+
+### April 8: Randomized Trials in Development
+
+- [Understanding Development and Poverty Alleviation]([https://www.aeaweb.org/articles?id=10.1257/jep.35.3.133](https://www.nobelprize.org/uploads/2019/10/advanced-economicsciencesprize2019.pdf))
 
 <br>
