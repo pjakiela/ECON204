@@ -55,7 +55,8 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 
 ### April 27: Microfinance 
 
-- []()  
+- [J-PAL: Where Credit Is Due](https://www.povertyactionlab.org/sites/default/files/publication/where-credit-is-due.pdf)  
+- [Repayment Flexibility Can Reduce Financial Stress: A Randomized Control Trial with Microfinance Clients in India](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045679)  
 
 ### April 29: Poverty Traps 
 
