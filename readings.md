@@ -35,5 +35,39 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 ### April 8: Randomized Trials in Development
 
 - [Understanding Development and Poverty Alleviation](https://www.nobelprize.org/uploads/2019/10/advanced-economicsciencesprize2019.pdf)
+- [J-PAL: A Balancing Act](https://www.povertyactionlab.org/publication/balancing-act)
+
+### April 13: Management Practices 
+
+- [Does Management Matter? Evidence from India](https://academic.oup.com/qje/article-abstract/128/1/1/1838606)  
+
+### April 15: Learning-by-Exporting
+
+- [Exporting and Firm Performance: Evidence from a Randomized Experiment](https://www.adam-osman.com/wp-content/uploads/2020/01/1-QJE-Exporting-and-Firm-Performance.pdf)
+
+### April 20: Girls' Education  
+
+- [Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India](https://academic.oup.com/qje/article-abstract/127/2/753/1823744?redirectedFrom=fulltext)  
+
+### April 22: Youth Unemployment
+
+- [A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01529/125020/A-Firm-of-One-s-Own-Experimental-Evidence-on?redirectedFrom=fulltext)  
+
+### April 27: Microfinance 
+
+- []()  
+
+### April 29: Poverty Traps 
+
+- [A multifaceted program causes lasting progress for the very poor: Evidence from six countries](https://www.science.org/doi/abs/10.1126/science.1260799)  
+- [Building Stable Livelihoods for the Ultra-Poor](https://poverty-action.org/sites/default/files/publications/building-stable-livelihoods-ultra-poor.pdf)  
+
+### May 4: Agriculture and Climate Change
+
+- [Money (Not) to Burn: Payments for Ecosystem Services to Reduce Crop Residue Burning](https://www.aeaweb.org/articles?id=10.1257/aeri.20230431)  
+
+### May 6: Indoor Air Pollution
+
+- [Credit, Attention, and Externalities in the Adoption of Energy Efficient Technologies by Low-Income Households](https://www.aeaweb.org/articles?id=10.1257/aer.20210766)   
 
 <br>
