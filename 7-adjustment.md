@@ -10,11 +10,12 @@
 
 ### Mentioned in Lecture
 
-[The Baker Hypothesis: Stabilization, Structural Reforms, and Economic Growth](https://www.aeaweb.org/articles?id=10.1257/jep.35.3.83)  
+[The Baker Hypothesis: Stabilization, Structural Reforms, and Economic Growth](https://www.aeaweb.org/articles?id=10.1257/jep.35.3.83)   
+
 <br>
 
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture notes](ECON204-L7-adjustment-2026-handout.pdf)  
 
 <br>
