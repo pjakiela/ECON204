@@ -14,10 +14,18 @@
 | 3/11, 3/16 | [Theories of Development](5-big-push.html) | 
 | 3/18 | [Industrial Policy](6-industrial-policy.html) |
 | 3/21, 3/23, 3/30, 4/1 | _Spring Break_ |
-| 4/6 | Structural Adjustment |
-| 4/8 | Randomized Trials in Development Economics |
-| | ... |
-| 5/13 | _Policy Brief Group Meetings_ |
+| 4/6 | [Structural Adjustment](7-adjustment.html) |
+| 4/8 | [Randomized Trials in Development Economics](8-RCTs.html) |
+| 4/13 | [Management and Firm Productivity](9-management.html) |
+| 4/15 | [Exports and Firm Productivity](10-exports.html) |
+| 4/20 | [Girls' Education](11-education.html) |
+| 4/22 | [Youth Unemployment](12-jobs-youth.html) |
+| 4/27 | [Microfinance]() |
+| 4/29 | [Poverty Traps]() |
+| 5/4 | [Agriculture and Climate Change]() |
+| 5/6 | [Indoor Air Pollution]() |
+| 5/11 | **Policy Brief Presentations** |
+| 5/13 | _No Class: Policy Brief Group Meetings_ |
 
 <br>
 
