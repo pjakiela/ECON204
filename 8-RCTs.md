@@ -26,12 +26,15 @@
 
 ## Lab 
 
-In this lab, we will
+In this lab, we will use (some of) the data from the paper 
+[Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial](https://www.aeaweb.org/articles?id=10.1257/aer.20130267) 
+by Jessica Cohen, Pascaline Dupas, and Simone Schaner, published in the _American Economic Review_ in 2015.  The authors examine behavioral responses to 
+various discounts ("subsidies") for malaria treatment, called "artemisinin combination therapy" or "ACT."  An overview of the randomized evalaution is available [here](https://www.povertyactionlab.org/sites/default/files/publication/2011.12.15-Subsidizing-Malaria.pdf). The data that we will use for this lab is available [here](ECON-204-malaria-data.dta).  
 
-You can complete the lab in either Stata or R, though I recommend Stata for first and second year students planning to major in economics. The lab templates will also coach you through all of the steps required to complete the lab. Make sure to add your code to the template so that you can easily replicate all of the steps in your analysis.
+You can complete the lab in either Stata or R, though I recommend Stata for first and second year students planning to major in economics. The lab templates will also coach you through all of the steps required to complete the lab. Make sure to add your code to the template so that you can easily replicate all of the steps in your analysis.  
 
-The Stata template is available [here]().
+The Stata template is available [here](ECON-204-RCT-lab-template.do).  
 
-The R template is available [here]().
+The R template is available [here](ECON-204-RCT-lab-template.R).
 
 <br>
