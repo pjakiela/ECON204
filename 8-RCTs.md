@@ -18,7 +18,7 @@
 
 ## Class Materials 
 
-[Lecture Notes]()  
+[Lecture Notes](ECON204-L8-RCTs-2026-handout.pdf)  
 
 <br>
 
