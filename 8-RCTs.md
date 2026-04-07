@@ -20,6 +20,18 @@
 
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture Notes]()  
+
+<br>
+
+## Lab 
+
+In this lab, we will
+
+You can complete the lab in either Stata or R, though I recommend Stata for first and second year students planning to major in economics. The lab templates will also coach you through all of the steps required to complete the lab. Make sure to add your code to the template so that you can easily replicate all of the steps in your analysis.
+
+The Stata template is available [here]().
+
+The R template is available [here]().
 
 <br>
