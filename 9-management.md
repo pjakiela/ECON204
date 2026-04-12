@@ -17,6 +17,6 @@
 
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture notes](ECON204-L9-management-2026-handout.pdf)  
 
 <br>
