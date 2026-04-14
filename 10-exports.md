@@ -8,13 +8,8 @@
  
 <br>
 
-### Mentioned in Lecture
-
-[]()  
-<br>
-
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture notes](ECON204-L10-learning-by-exporting-2026-handout.pdf)  
 
 <br>
