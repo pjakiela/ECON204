@@ -8,13 +8,14 @@
 
 <br>
 
-### Mentioned in Lecture
+### Background Reading:
 
 [Gender Gaps in Education: The Long View](https://www.cgdev.org/sites/default/files/gender-gaps-education-long-view.pdf)  
+
 <br>
 
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture notes](ECON204-L11-educ-2026-handout.pdf)  
 
 <br>
