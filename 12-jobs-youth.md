@@ -18,6 +18,6 @@
 
 ## Class Materials 
 
-[Lecture notes]()  
+[Lecture notes](ECON204-L12-youth-2026-handout.pdf)  
 
 <br>
