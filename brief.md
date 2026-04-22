@@ -14,4 +14,16 @@ For this assignment, each group will produce a 2 to 4 page policy brief synthesi
 
 To avoid violating the Honor Code, you should not use any text that is taken directly from the paper.  
 
+Some examples of policy briefs about the papers we read in class:
+
+[An IGC brief on the Bloom et al. paper on management consulting for textile manufacturers](https://www.theigc.org/sites/default/files/2014/09/Bloom-2011-Policy-Brief.pdf)  
+
+[A J-PAL brief on the Egyptian rug weavers paper](https://www.povertyactionlab.org/sites/default/files/publication/egyptian-rug-firms-weave-their-way-into-foreign-markets.pdf)  
+
+[A short GLM|LIC brief on the Nairobi youth entrepreneurship paper](https://g2lm-lic.iza.org/wp-content/uploads/2023/01/GLMLIC-Policy-Brief_057.pdf)  
+
+[A J-PAL brief summarizing the lessons from 7 evaluations of microfinance](https://www.povertyactionlab.org/sites/default/files/publication/where-credit-is-due.pdf)  
+
+<br>
+
 
