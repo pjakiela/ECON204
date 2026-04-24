@@ -20,10 +20,10 @@
 | 4/15 | [Exports and Firm Productivity](10-exports.html) |
 | 4/20 | [Girls' Education](11-education.html) |
 | 4/22 | [Youth Unemployment](12-jobs-youth.html) |
-| 4/27 | [Microfinance]() |
-| 4/29 | [Poverty Traps]() |
-| 5/4 | [Agriculture and Climate Change]() |
-| 5/6 | [Indoor Air Pollution]() |
+| 4/27 | [Microfinance](13-microfinance.html) |
+| 4/29 | [Poverty Traps](14-graduation.html) |
+| 5/4 | [Agriculture and Climate Change](15-crop-burning.html) |
+| 5/6 | [Indoor Air Pollution](16-cookstoves.html) |
 | 5/11 | **Policy Brief Presentations** |
 | 5/13 | _No Class: Policy Brief Group Meetings_ |
 
