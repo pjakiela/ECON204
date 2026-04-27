@@ -20,7 +20,7 @@ Some examples of policy briefs about the papers we read in class:
 
 [A J-PAL brief on the Egyptian rug weavers paper](https://www.povertyactionlab.org/sites/default/files/publication/egyptian-rug-firms-weave-their-way-into-foreign-markets.pdf)  
 
-[A short GLM|LIC brief on the Nairobi youth entrepreneurship paper](https://g2lm-lic.iza.org/wp-content/uploads/2023/01/GLMLIC-Policy-Brief_057.pdf)  
+[A short GLMLIC brief on the Nairobi youth entrepreneurship paper](https://g2lm-lic.iza.org/wp-content/uploads/2023/01/GLMLIC-Policy-Brief_057.pdf)  
 
 [A J-PAL brief summarizing the lessons from 7 evaluations of microfinance](https://www.povertyactionlab.org/sites/default/files/publication/where-credit-is-due.pdf)  
 
