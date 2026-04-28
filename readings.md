@@ -58,7 +58,7 @@ _Reading comprehension questions are posted on gradescope and must be submitted 
 - [J-PAL: Where Credit Is Due](https://www.povertyactionlab.org/sites/default/files/publication/where-credit-is-due.pdf)  
 - [Repayment Flexibility Can Reduce Financial Stress: A Randomized Control Trial with Microfinance Clients in India](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045679)  
 
-### April 29: Poverty Traps 
+### April 29: Graduation Programs 
 
 - [A multifaceted program causes lasting progress for the very poor: Evidence from six countries](https://www.science.org/doi/abs/10.1126/science.1260799)  
 - [Building Stable Livelihoods for the Ultra-Poor](https://poverty-action.org/sites/default/files/publications/building-stable-livelihoods-ultra-poor.pdf)  
