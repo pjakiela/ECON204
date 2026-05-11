@@ -24,8 +24,9 @@
 | 4/29 | [Graduation Programs](14-graduation.html) |
 | 5/4 | [Agriculture and Climate Change](15-crop-burning.html) |
 | 5/6 | [Indoor Air Pollution](16-cookstoves.html) |
+| 5/7, 5/8 | _Policy Brief Project Group Meetings_|
 | 5/11 | **Policy Brief Presentations** |
-| 5/13 | _No Class: Policy Brief Group Meetings_ |
+| 5/13 | _No Class_ |
 
 <br>
 
