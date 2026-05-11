@@ -1,5 +1,7 @@
 # Policy Brief Assignment
 
+_The Policy Brief is due on Tuesday, May 19th, by 5PM_
+
 For this assignment, each group will produce a 2 to 4 page policy brief synthesizing the lessons from 2 to 4 randomized evaluations that were not discussed in class. You should use the [policy brief template](https://docs.google.com/presentation/d/1RVUzFAJr68QTCAoKq4iHbxUO40RXqXq2dsJ0Od__QTI/edit?usp=sharing) here (the link only works if you are logged in with a Williams College address). You are free to adapt the layout of the brief as you see fit, and I encourage you to put some thought into the structure and layout of your brief. However, your brief must include:
 
 1. A title 
